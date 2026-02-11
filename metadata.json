@@ -1,0 +1,5 @@
+{
+  "name": "Projekt-Datenbank Ausschreibungen",
+  "description": "Eine professionelle Projekt-Datenbank zur Suche und Verwaltung von Ausschreibungen und Leistungsverzeichnissen, basierend auf Google Sheets Daten.",
+  "requestFramePermissions": []
+}
